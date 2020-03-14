@@ -17,5 +17,7 @@ https://drive.google.com/file/d/1BAicch1EzypQY5Kh6b93DoXlrmXnZe-9/
 
 Abouth the author:
 Madhu Sanjeevi
+
 https://medium.com/@madhusanjeevi.ai
+
 Madhu is a machine learning scientist and AI researcher, currently working at Logos 01. After working in Mumbai, he recently moved to Italy in Mantova.
